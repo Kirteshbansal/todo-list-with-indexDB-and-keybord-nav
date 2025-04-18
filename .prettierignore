@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+package-lock.json
+yarn.lock
+*.log
+*.lock
+*.tgz
+*.zip
+*.tar
+*.tar.gz
+./src/components/shadcn/ui/*
